@@ -1,0 +1,9 @@
+.game {
+    display: flex;
+    flex-flow: column;
+}
+
+h3 {
+    font-family: serif;
+    color: rgba(80, 80, 80, 1);
+}
